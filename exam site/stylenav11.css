@@ -1,0 +1,91 @@
+header, footer {
+  background-color: #D6BA9B;
+  padding: 10px;
+font-family: PT Mono, Monospace
+}
+
+main {
+  padding: 10px;
+  background-color: #C6A782;
+font-family: PT Mono, Monospace
+}
+
+.post {
+  background-color:#D8B791;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  display: flex;
+}
+
+.post img {
+  margin: 20px;
+}
+
+.footer-columns {
+  display: flex;
+}
+
+.footer-column {
+  flex: 50%;
+  margin: 20px;
+}
+
+nav ul{
+  position:relative;
+  display:block;
+  width: 100%;
+  heigh: auto;
+  z-index: 10;
+  list-style: none
+}
+
+.topnav {
+  overflow: hidden;
+  margin: 0px 30px 
+}
+
+.topnav a {
+  float: left;
+  color: #7C674F;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 37px;
+ 
+}
+
+.topnav a:hover {
+  background-color: #A3907A;
+  color: white;
+}
+
+.topnav a.active {
+  background-color: #7C674F;
+  color: white;
+}
+ul li{ font-size:30px;
+ padding: 0px;
+ margin: 15px 0px 0px 10px;
+ 
+font-family: PT Mono, Monospace;color:#544034
+}
+p1{font-size:34px;
+color: #544034;
+font-family: PT Mono, Monospace}
+h2{font-size:40px;
+color: #544034;
+font-family: PT Mono, Monospace}
+ul li a{text-decoration: none;
+color:black;
+font-family: PT Mono, Monospace}
+img{margin: 10px 20px 11px;
+font-family: PT Mono, Monospace
+p{font-size:23px;
+color: #544034;
+font-family: PT Mono, Monospace}
+
+ul{color: #544034;
+font-family: PT Mono, Monospace}
+a{color:#544034;
+font-family: PT Mono, Monospace}
